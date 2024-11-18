@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2935212470762026047
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 192632915426455006, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_Name
+      value: WaterCardFab Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3645474310760062907, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_text
+      value: Water burst
+      objectReference: {fileID: 0}
+    - target: {fileID: 4399255296379477547, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4ec9f8884c002814ab38689c4125467e, type: 3}
+    - target: {fileID: 5083405718544253887, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 5083405718544253887, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_Color.g
+      value: 0.66783834
+      objectReference: {fileID: 0}
+    - target: {fileID: 5083405718544253887, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_Color.r
+      value: 0.42352945
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_Pivot.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 190
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 340
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6133848013673579407, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 192632915426455006, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 917911505481161599}
+  m_SourcePrefab: {fileID: 100100000, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+--- !u!1 &3033076137696401889 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 192632915426455006, guid: ab27876eb563c49c6ad55ef47f6d7136, type: 3}
+  m_PrefabInstance: {fileID: 2935212470762026047}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &917911505481161599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3033076137696401889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30a61c09b99f47d9acfc8a4bbfe6ffc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  elementType: 1
+  effectCells: []
